@@ -1,0 +1,2 @@
+# changing_special_bonus
+m2m-cleaning上のスペシャルボーナスを一括で変更するGAS。
